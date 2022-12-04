@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css?family=Prompt");
+
+* {
+    font: 'Prompt';
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    height: 2rem;
+}
+.navbar-right {
+    justify-self: right;
+    display: flex;
+    text-align: center;
+}
+.navbar-left {
+    justify-content: left;
+}
+
+
+
+
+
+
+
+
+
